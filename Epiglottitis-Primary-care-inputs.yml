@@ -1,0 +1,21 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/acute-epiglottitis-primary-care---primary.py
+inputModule3:
+  class: File
+  path: python/epiglottitis---primary.py
+inputModule4:
+  class: File
+  path: python/epiglottitis-primary-care-obstruction---primary.py
+inputModule5:
+  class: File
+  path: python/epiglottitis-primary-care-supraglottitis---primary.py
+inputModule6:
+  class: File
+  path: python/viral-epiglottitis-primary-care---primary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
